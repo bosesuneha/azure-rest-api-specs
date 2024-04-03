@@ -37,6 +37,7 @@ These settings apply only when `--tag=package-2023-08` is specified on the comma
 ```yaml $(tag) == 'package-2023-08'
 input-file:
   - Microsoft.DevHub/stable/2023-08-01/workflow.json
+  - Microsoft.DevHub/preview/2024-01-16-preview/iac.json
 ```
 ### Tag: package-preview-2022-10
 
